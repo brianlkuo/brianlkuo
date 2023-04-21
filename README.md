@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📝 Blog Posts
+* Building an Automated Data Pipeline for Retail Trade Survey Data](https://nycdatascience.com/blog/meetup/building-an-automated-data-pipeline-for-retail-trade-survey-data/g)
