@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📝 Blog Posts
+📝 Blog Posts
 * Building an Automated Data Pipeline for Retail Trade Survey Data](https://nycdatascience.com/blog/meetup/building-an-automated-data-pipeline-for-retail-trade-survey-data/g)
