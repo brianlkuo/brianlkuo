@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 📝 [Blog Posts](https://nycdatascience.com/blog/author/brian-kuo/)
-* [Building an Automated Data Pipeline for Retail Trade Survey Data](https://nycdatascience.com/blog/meetup/building-an-automated-data-pipeline-for-retail-trade-survey-data/)
+
