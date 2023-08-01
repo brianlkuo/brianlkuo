@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Please check out what I've worked on here:
+
 <!--
 **brianlkuo/brianlkuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
